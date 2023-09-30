@@ -8,3 +8,4 @@ The repo for different python scripts
 |jira_issues.py|A script that querying  JIRA issues by filter, doing some logic, generating message and sending it to the Slack channel |
 |jira_ghe_box_excel.py|A Python script to retrieve weekly issues status from JIRA and GHE boards, then append a new sheet in excel table stored in Box(JWT auth used)|
 | elastic_search.py |A Python script that uses search_after functionality to retrieve max number of queries in all pages |
+| csv_transformation.py | The script is doing different manipulations with the csv file|
